@@ -1,0 +1,36 @@
+#form { width:"1100" height="600";  float: right; margin-right:  10%;
+
+}
+table, th,td,tr {border:1px solid
+
+} 
+#imagem{ text-align: left; width:"1100" height="800";  float: left;
+}
+#all{ background-color:#591830}
+
+#referencia { text-align: right;
+}
+
+input[type=text], input[type=number], input[type=date], input[type=email], input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  
+  textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: none;
+    }
+
+    h1 { font-style: oblique }
